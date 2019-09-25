@@ -24,6 +24,7 @@ Para correrlo utiliza los archivos que se encuentran en la carpeta bin te la sig
 - **Sin opciones:**
 
   `sudo ./bin/run`
+  
   **defaults**:
     - port: 3015
     - detach: false
